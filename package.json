@@ -1,0 +1,12 @@
+{
+  "name": "docker-node-hello-world",
+  "version": "1.0.0",
+  "description": "A hello world example of building a docker image from a node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Price",
+  "license": "ISC",
+  "repository": "git@github.com:chrisprice/docker-node-hello-world.git"
+}
