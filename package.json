@@ -4,9 +4,10 @@
   "description": "A hello world example of building a docker image from a node app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index"
   },
   "author": "Chris Price",
   "license": "ISC",
-  "repository": "git@github.com:chrisprice/docker-node-hello-world.git"
+  "repository": "git@github.com:chrisprice/docker-node-hello-world.git",
+  "readme": "README.md"
 }
